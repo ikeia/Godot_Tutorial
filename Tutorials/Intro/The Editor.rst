@@ -1,5 +1,15 @@
-signals
-========
+The Editor
+==========
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -21,4 +31,3 @@ signals
   }
   </style>
   <iframe src="https://editor.godotengine.org/releases/latest/"></iframe>
-  <a href="https://editor.godotengine.org/releases/latest/" target="_blank" style="right:0;">Link to the Godot Online Editor Page</a>

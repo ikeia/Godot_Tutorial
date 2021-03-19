@@ -1,8 +1,7 @@
 
-Basic Godot Tutorial
+Table of Contents
 ==========================================
-intro
-structure
+
 
 .. toctree::
   Tutorials/intro
