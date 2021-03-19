@@ -5,10 +5,6 @@ The Project Manager
 
 .. image:: /images/project_manager/web-projects.png
 
-.. image:: /images/project_manager/project-left.png
+**This is a caption** this is where you can select any currently loaded projects.
 
-.. image:: /images/project_manager/import-project.png
-
-.. image:: /images/project_manager/scan.png
-
-.. image:: /images/project_manager/CreateNewProject.png
+.. image:: /images/project_manager/project_manager.png
