@@ -9,22 +9,26 @@ If you want to keep persistent data on the editor while going between pages **us
 
 .. raw:: html
 
-  ---
-  <a href="https://editor.godotengine.org/releases/latest/" target="_blank" style="text-decoration: underline;"> Online Editor </a>
-  ----------------
-  <a href="https://godotengine.org/download" target="_blank" style="text-decoration: underline;"> Engine Download </a>
-  ---
+
+  <a href="https://editor.godotengine.org/releases/latest/" target="_blank" style="text-decoration: underline;">
+  <img src="../_static/images/links/web_editor.png" style="left:25%;"></img>
+  </a>
+  <a href="https://godotengine.org/download" target="_blank" style="text-decoration: underline;">
+  <img src="../_static/images/links/game_engine.png" style="left:25%;"></img>
+  </a>
+
   <p></p>
 
 
-This tutorial uses example projects of which you can follow along. Below is a download to the folder containing all the project zips.
+This tutorial uses example projects of which you can follow along. **Below is a download to the folder containing all the project zips**.
 Leave this on your desktop and preload the corresponding projects, otherwise the links to the individual projects will also be provided on their own page.
 
 .. raw:: html
 
-  ---------------
-  <a href="https://drive.google.com/drive/folders/1zYaeRmCsnnvY4htUPBVxdXfAFaePiD_3?usp=sharing" target="_blank" style="text-decoration: underline;"> Tutorial Project Files </a>
-  ----------------------
+  <a href="https://drive.google.com/drive/folders/1zYaeRmCsnnvY4htUPBVxdXfAFaePiD_3?usp=sharing" target="_blank" style="text-decoration: underline;">
+  <img src="../_static/images/links/tutorial_files.png" style="left:25%;"></img>
+  </a>
+
   <p></p>
 
 The remainder of the introduction goes over the layout and usage of various windows in Godot. The first one you encounter while opening Godot and the first one we are going to go over

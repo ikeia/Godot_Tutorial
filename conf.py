@@ -48,7 +48,7 @@ exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store','.git']
 #
 html_theme = 'sphinx_rtd_theme'
 
-html_logo = 'images/Godot_Logo.png'
+html_logo = '_static/images/Godot_Logo.png'
 
 html_theme_options = {
 'logo_only': True
