@@ -5,7 +5,7 @@ This guide is intended for those who have never used Godot before.
 It aims to teach the basics in a way that's easy to understand.
 
 On the right is the Godot engine embedded in the page.
-If you want to keep the data on the editor while going between pages **use the standalone site or download the editor here**:
+If you want to keep persistent data on the editor while going between pages **use the standalone site or download the editor here**:
 
 .. raw:: html
 
@@ -27,10 +27,8 @@ Leave this on your desktop and preload the corresponding projects, otherwise the
   ----------------------
   <p></p>
 
-
-
-
-
+The remainder of the introduction goes over the layout and usage of various windows in Godot. The first one you encounter while opening Godot and the first one we are going to go over
+is `the project manager <Intro/The Project Manager.html>`_.
 
 
 

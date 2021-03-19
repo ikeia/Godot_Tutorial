@@ -3,33 +3,12 @@ The Project Manager
 
 
 
+.. image:: /images/project_manager/web-projects.png
 
+.. image:: /images/project_manager/project-left.png
 
+.. image:: /images/project_manager/import-project.png
 
+.. image:: /images/project_manager/scan.png
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-.. raw:: html
-
-  <style>
-  iframe {
-  position: absolute;
-  right: 0;
-  width: 42.7%;
-  height: 100%;
-  top: 0;
-  style="border:1px solid black;"
-  }
-  </style>
-  <iframe src="https://editor.godotengine.org/releases/latest/"></iframe>
+.. image:: /images/project_manager/CreateNewProject.png
