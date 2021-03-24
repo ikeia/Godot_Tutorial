@@ -1,0 +1,28 @@
+.leftside, .rightside{
+
+  height:100%;
+  width:100%;
+
+}
+
+.leftside {
+  left: 0;
+
+}
+
+.rightside {
+  position: sticky;
+  right: 0;
+}
+
+@media screen and (min-width:768px)
+{
+
+.leftside, .rightside {
+
+  height: 100vh;
+  
+}
+
+
+}
