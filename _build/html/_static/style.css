@@ -1,0 +1,34 @@
+.leftside, .rightside{
+
+  height:50vh;
+  width:100%;
+
+}
+
+.leftside {
+  left: 0;
+}
+
+.rightside {
+  align-self: flex-end;
+  position: sticky;
+  display: flex;
+  right: 0;
+}
+
+@media screen and (min-width:768px) {
+
+.leftside, .rightside {
+  height: 100vh;
+}
+.rightside {
+  display: flex;
+  position: sticky;
+  align-self: flex-end;
+  bottom: 0;
+}
+.leftside {
+  top: 0;
+
+}
+}
