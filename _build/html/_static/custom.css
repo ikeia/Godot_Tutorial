@@ -1,16 +1,8 @@
 /* This file intentionally left blank. */
-.videoWrapper {
- position: relative;
- padding-bottom: 56.25%;
- /* 16:9 */
- padding-top: 25px;
- height: 0;
- }
-
-.videoWrapper iframe {
+iframe {
  position: absolute;
- top: 0;
- left: 0;
- width: 100%;
+ right: 0;
+ top:0;
+ width: 50%;
  height: 100%;
  }

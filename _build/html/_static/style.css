@@ -17,18 +17,11 @@
 }
 
 @media screen and (min-width:768px) {
+.iframe{
+  height: 50vh
+}
 
 .leftside, .rightside {
   height: 100vh;
-}
-.rightside {
-  display: flex;
-  position: sticky;
-  align-self: flex-end;
-  bottom: 0;
-}
-.leftside {
-  top: 0;
-
 }
 }

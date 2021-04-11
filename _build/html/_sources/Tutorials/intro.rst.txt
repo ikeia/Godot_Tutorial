@@ -7,10 +7,6 @@ Introduction
   <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
   <link href="../_static/style.css" rel="stylesheet">
 
-  <div class="row no-gutters">
-
-  <div class="col-md-6 no-gutters">
-  <div class="leftside">
 
 
   This guide is intended for those who have never used Godot before.
@@ -19,14 +15,14 @@ Introduction
   On the right is the Godot engine embedded in the page.
   If you want to keep persistent data on the editor while going between pages **use the standalone site or download the editor here**:
 
-  .. raw:: html
+.. raw:: html
 
-    <a href="https://editor.godotengine.org/releases/latest/" target="_blank" style="text-decoration: underline;">
-    <img src="../_static/images/links/web_editor.png" style="left:25%;"></img>
-    </a>
-    <a href="https://godotengine.org/download" target="_blank" style="text-decoration: underline;">
-    <img src="../_static/images/links/game_engine.png" style="left:25%;"></img>
-    </a>
+   <a href="https://editor.godotengine.org/releases/latest/" target="_blank" style="text-decoration: underline;">
+   <img src="../_static/images/links/web_editor.png" style="left:25%;"></img>
+   </a>
+   <a href="https://godotengine.org/download" target="_blank" style="text-decoration: underline;">
+   <img src="../_static/images/links/game_engine.png" style="left:25%;"></img>
+   </a>
 
     <p></p>
 
@@ -54,10 +50,7 @@ Introduction
 
 .. raw:: html
 
-  </div></div>
 
-  <div class="col-md-6 no-gutters">
-  <div class="rightside item engine">
 
 
 
@@ -65,12 +58,8 @@ Introduction
   iframe {
   position: sticky;
   width: 100%;
-  height: 50vh;
+  height: 100vh;
   }
   </style>
 
   <iframe src="https://editor.godotengine.org/releases/latest/"></iframe>
-
-
-
-  </div></div></div>
