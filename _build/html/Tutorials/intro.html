@@ -57,11 +57,9 @@
         height: 100%;
         position: fixed;
         left:-4%;
-
-
       }
 </style>
-<body class="wy-body-for-nav">
+<body class="wy-body-for-nav" id="expandtext">
 
 
         <div class="col">
@@ -276,6 +274,7 @@ is `the project manager <Intro/The Project Manager.html>`_.<div class="toctree-w
 
 </body>
 <style>
+
   iframe {
     width: 40%;
     height: 100%;
@@ -283,9 +282,20 @@ is `the project manager <Intro/The Project Manager.html>`_.<div class="toctree-w
     right: 0;
     top: auto;
   }
+
+  @media only screen and (max-width: 720px) {
+    #fadeshow1 {
+        display: none;
+        width: 0%;
+    }
+    #expandtext {
+        width:100%;
+    }
+  }
+
 </style>
 <div class="col">
-<iframe src="https://editor.godotengine.org/releases/latest/"></iframe></div>
+<iframe src="https://editor.godotengine.org/releases/latest/" id="fadeshow1"></iframe></div>
 </div>
 </div>
 </html>

@@ -46,20 +46,3 @@ Introduction
 .. toctree::
    Intro/The Project Manager
    Intro/The Editor
-
-
-.. raw:: html
-
-
-
-
-
-  <style>
-  iframe {
-  position: sticky;
-  width: 100%;
-  height: 100vh;
-  }
-  </style>
-
-  <iframe src="https://editor.godotengine.org/releases/latest/"></iframe>

@@ -4,7 +4,8 @@ Table of Contents
 
 
 .. toctree::
-  Tutorials/intro
-  Tutorials/structure
-  Tutorials/scripting
+  Tutorials/Intro
+  Tutorials/Nodes
+  Tutorials/Scenes
+  Tutorials/Scripting
   Tutorials/examples
