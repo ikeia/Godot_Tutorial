@@ -223,6 +223,7 @@ table.indextable tr.pcap {
 table.indextable tr.cap {
     margin-top: 10px;
     background-color: #f2f2f2;
+
 }
 
 img.toggler {
@@ -405,6 +406,7 @@ p.admonition-title {
 div.body p.centered {
     text-align: center;
     margin-top: 25px;
+    background-color: #909696;
 }
 
 /* -- content of sidebars/topics/admonitions -------------------------------- */

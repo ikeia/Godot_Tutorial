@@ -51,6 +51,7 @@ html_theme = 'sphinx_rtd_theme'
 html_logo = '_static/images/Godot_Logo.png'
 
 html_theme_options = {
+'style_nav_header_background': '#313434',
 'logo_only': True
 }
 

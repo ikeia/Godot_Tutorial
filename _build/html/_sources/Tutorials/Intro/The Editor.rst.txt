@@ -13,11 +13,6 @@ The Editor
 
 
 
-
-
-
-
-
 .. raw:: html
 
   <style>
